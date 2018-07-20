@@ -1,7 +1,8 @@
 Collection of articles, books, videos and other things I found useful for those interested in the topic.
 
-### Start here
-- http://wannabe.urustar.net
+### Classics
+- [I Have No Words & I Must Design (pdf)](http://www.costik.com/nowords2002.pdf) by Greg Costikyan
+- [Don't by a Vidiot](http://www.costik.com/vidiot.html) by Greg Costikyan
 
 ### Posts
 - [The Chemistry Of Game Design](https://www.gamasutra.com/view/feature/1524/the_chemistry_of_game_design.php) by [Daniel Cook](https://twitter.com/danctheduck)
