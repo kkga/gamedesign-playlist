@@ -3,6 +3,7 @@ Collection of articles, books, videos and other things I found useful for those 
 ### Classics
 - [I Have No Words & I Must Design (pdf)](http://www.costik.com/nowords2002.pdf) by Greg Costikyan
 - [Don't by a Vidiot](http://www.costik.com/vidiot.html) by Greg Costikyan
+- [MDA: A Formal Approach to Game Design and Game Research (pdf)](https://www.cs.northwestern.edu/~hunicke/MDA.pdf) by Robin Hunicke, Marc LeBlanc, Robert Zubek
 
 ### Posts
 - [The Chemistry Of Game Design](https://www.gamasutra.com/view/feature/1524/the_chemistry_of_game_design.php) by [Daniel Cook](https://twitter.com/danctheduck)
