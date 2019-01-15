@@ -12,7 +12,10 @@ Collection of articles, books, videos and other things I found useful for those 
 ### Talks
 - [Game Design Theory I Wish I had Known When I Started](https://youtu.be/qwPe3OHR04c) by [Daniel Cook](http://www.lostgarden.com/)
 
-### Books/courses
-- https://gamedesignconcepts.wordpress.com by [Ian Schreiber](https://twitter.com/IanSchreiber)
+### Books
 - [A Theory of Fun for Game Design](https://www.theoryoffun.com) by [Raph Koster](https://twitter.com/raphkoster)
 - [Game Feel](http://www.game-feel.com) by Steve Swink
+- [Game Mechanics: Advanced Game Design](https://www.goodreads.com/book/show/13705461-game-mechanics) by Ernest Adams, Joris Dormans
+
+### Courses
+- https://gamedesignconcepts.wordpress.com by [Ian Schreiber](https://twitter.com/IanSchreiber)
