@@ -7,7 +7,7 @@ Collection of articles, books, videos and other things I found useful for those 
 
 ### Posts
 - [The Chemistry Of Game Design](https://www.gamasutra.com/view/feature/1524/the_chemistry_of_game_design.php) by [Daniel Cook](https://twitter.com/danctheduck)
-- [Design 101: Design Goals](https://www.gamasutra.com/blogs/DanFelder/20150413/240853/Design_101_Design_Goals.php) by [Dan Felder](https://twitter.com/DesignerDanF)
+- [Design 101](https://www.gamasutra.com/blogs/DanFelder/20150413/240853/Design_101_Design_Goals.php) series by [Dan Felder](https://twitter.com/DesignerDanF)
 
 ### Talks
 - [Practical Creativity](https://www.youtube.com/watch?v=zyVTxGpEO30) by [Raph Koster](https://twitter.com/raphkoster) (&#9733;)
