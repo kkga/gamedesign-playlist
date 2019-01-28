@@ -10,6 +10,7 @@ Collection of articles, books, videos and other things I found useful for those 
 - [Design 101: Design Goals](https://www.gamasutra.com/blogs/DanFelder/20150413/240853/Design_101_Design_Goals.php) by [Dan Felder](https://twitter.com/DesignerDanF)
 
 ### Talks
+- [Practical Creativity](https://www.youtube.com/watch?v=zyVTxGpEO30) by [Raph Koster](https://twitter.com/raphkoster) (&#9733;)
 - [Game Design Theory I Wish I had Known When I Started](https://youtu.be/qwPe3OHR04c) by [Daniel Cook](http://www.lostgarden.com/)
 - [Storytime, PAX East 2016](https://youtu.be/UwBl7Rnkt78) by [Jonathan Blow](https://twitter.com/jonathan_blow)
 - [Indie Prototyping](https://youtu.be/ISutk1mauPM) by [Jonathan Blow](https://twitter.com/jonathan_blow)
