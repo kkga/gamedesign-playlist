@@ -22,4 +22,4 @@ Collection of articles, books, videos and other things I found useful for those 
 - [Game Mechanics: Advanced Game Design](https://www.goodreads.com/book/show/13705461-game-mechanics) by Ernest Adams, Joris Dormans
 
 ### Courses
-- https://gamedesignconcepts.wordpress.com by [Ian Schreiber](https://twitter.com/IanSchreiber)
+- [Game Design Concepts](https://gamedesignconcepts.wordpress.com) by [Ian Schreiber](https://twitter.com/IanSchreiber)
