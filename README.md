@@ -11,10 +11,10 @@ Collection of articles, books, videos and other things I found useful for those 
 
 ### Talks
 - [Practical Creativity](https://www.youtube.com/watch?v=zyVTxGpEO30) by [Raph Koster](https://twitter.com/raphkoster) (&#9733;)
+- [Magic: The Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY) by [Mark Rosewater](https://en.wikipedia.org/wiki/Mark_Rosewater) (&#9733;)
 - [Game Design Theory I Wish I had Known When I Started](https://youtu.be/qwPe3OHR04c) by [Daniel Cook](http://www.lostgarden.com/)
 - [Storytime, PAX East 2016](https://youtu.be/UwBl7Rnkt78) by [Jonathan Blow](https://twitter.com/jonathan_blow)
 - [Indie Prototyping](https://youtu.be/ISutk1mauPM) by [Jonathan Blow](https://twitter.com/jonathan_blow)
-- [Magic: The Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY) by [Mark Rosewater](https://en.wikipedia.org/wiki/Mark_Rosewater)
 
 ### Books
 - [A Theory of Fun for Game Design](https://www.theoryoffun.com) by [Raph Koster](https://twitter.com/raphkoster)
