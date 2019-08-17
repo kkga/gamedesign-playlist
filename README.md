@@ -23,3 +23,4 @@ Collection of articles, books, videos and other things I found useful for those 
 
 ### Courses
 - [Game Design Concepts](https://gamedesignconcepts.wordpress.com) by [Ian Schreiber](https://twitter.com/IanSchreiber)
+- [Game Balance Concepts](https://gamebalanceconcepts.wordpress.com) by [Ian Schreiber](https://twitter.com/IanSchreiber)
