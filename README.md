@@ -17,10 +17,10 @@ Collection of articles, books, videos and other things I found useful for those 
 - [Indie Prototyping](https://youtu.be/ISutk1mauPM) by [Jonathan Blow](https://twitter.com/jonathan_blow)
 
 ### Books
+- [Designing Games](https://tynansylvester.com/book/) by [Tynan Sylverster](https://twitter.com/TynanSylvester) (&#9733;)
 - [A Theory of Fun for Game Design](https://www.theoryoffun.com) by [Raph Koster](https://twitter.com/raphkoster)
 - [Game Feel](http://www.game-feel.com) by Steve Swink
 - [Game Mechanics: Advanced Game Design](https://www.goodreads.com/book/show/13705461-game-mechanics) by Ernest Adams, Joris Dormans
-- [Designing Games](https://tynansylvester.com/book/) by [Tynan Sylverster](https://twitter.com/TynanSylvester)
 - [Games, Design & Play](http://www.gamesdesignandplay.com/) by Colleen Macklin, John Sharp
 
 ### Courses
