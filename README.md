@@ -15,6 +15,7 @@ Collection of articles, books, videos and other things I found useful for those 
 - [Game Design Theory I Wish I had Known When I Started](https://youtu.be/qwPe3OHR04c) by [Daniel Cook](http://www.lostgarden.com/)
 - [Storytime, PAX East 2016](https://youtu.be/UwBl7Rnkt78) by [Jonathan Blow](https://twitter.com/jonathan_blow)
 - [Indie Prototyping](https://youtu.be/ISutk1mauPM) by [Jonathan Blow](https://twitter.com/jonathan_blow)
+- [Cursed Problems in Game Design](https://youtu.be/8uE6-vIi1rQ) by Alex Jaffe
 
 ### Books
 - [Designing Games](https://tynansylvester.com/book/) by [Tynan Sylverster](https://twitter.com/TynanSylvester) (&#9733;)
