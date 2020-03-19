@@ -1,4 +1,9 @@
-Collection of articles, books, videos and other things I found useful for those interested in the topic.
++++
+title = "Game Design Playlist"
+description = "Collection of articles, books, videos and other things I found useful for those interested in the topic."
+path = "gdp"
++++
+
 
 ### Classics
 - [I Have No Words & I Must Design (pdf)](http://www.costik.com/nowords2002.pdf) by Greg Costikyan
