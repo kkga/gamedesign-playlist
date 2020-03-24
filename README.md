@@ -2,6 +2,9 @@
 title = "Game Design Playlist"
 description = "Collection of articles, books, videos and other things I found useful for those interested in the topic."
 path = "gdp"
+
+[extra]
+last_updated = 2020-03-20
 +++
 
 
