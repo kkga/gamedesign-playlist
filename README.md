@@ -1,6 +1,6 @@
 +++
 title = "Game Design Playlist"
-description = "Collection of articles, books, videos and other things I found useful for those interested in the topic."
+description = "Collection of articles, books, videos and other things I found useful."
 path = "gdp"
 
 [extra]
